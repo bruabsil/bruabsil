@@ -12,7 +12,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia 
+<p align="center"> Deselvolvedor full stack junior 
   
 #
 
